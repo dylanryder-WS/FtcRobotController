@@ -23,7 +23,7 @@ public class ServoGamePadOpMode extends OpMode {
        } else {
            board.setServoPosition(0.5);
        }
-       
+
          */
 
        board.setServoPosition(gamepad1.left_trigger);
